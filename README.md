@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm Hasindu Sithmin</h1>
+<h1 align="center">Hi 👋, I'm Hasindu Sithmin</h1>
 <p align="center"> I’ve always been a great problem solver, an independent introvert, and a technophile obsessed with the latest technologies. Today, I’m studying in ɪɴꜱᴛᴜᴛɪᴛᴇ ᴏꜰ ᴛᴇᴄʜɴᴏʟᴏɢʏ,ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴍᴏʀᴀᴛᴜᴡᴀ under the ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ. </p>
 <p align="center"> I started learning to code when I was a teenager, though it was always more of a hobby than a career focus. After passing the Advanced Level examination and continuing to pursue that hobby, I realized software engineering was the right field for me. </p>
 <p align="center"> Since then, I’ve worked on countless freelance projects, been involved with a handful of notable startups, and am getting into improving my ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴀɴᴅ ɴᴏᴅᴇ.ᴊꜱ knowledge on my own time. </p>
