@@ -4,7 +4,7 @@
 <p align="center"> Since then, I’ve worked on countless freelance projects, been involved with a handful of notable startups, and am getting into improving my ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴀɴᴅ ɴᴏᴅᴇ.ᴊꜱ knowledge on my own time. </p>
 <p align="center"> I’m familiar with a variety of programming languages, including ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ʜᴛᴍʟ, ᴄꜱꜱ, ᴘʏᴛʜᴏɴ, ᴀɴᴅ ɴᴏᴅᴇ.ᴊꜱ, and I'm also familiar with a variety of frameworks, including ꜰᴀꜱᴛᴀᴘɪ, ᴇxᴘʀᴇꜱꜱ.ᴊꜱ,ꜱᴘʀɪɴɢ ʙᴏᴏᴛ,ʀᴇᴀᴄᴛ.ᴊꜱ, ᴀɴᴅ ɴᴇxᴛ.ᴊꜱ but I’m always adding new skills to my repertoire. Further, I'm a passionate and self-motivated individual looking for more effective and efficient solutions. </p>
 <p align="center">
-<img src="https://i.ibb.co/54c8cDx/1663156760981.jpg"  />
+<img src="https://i.ibb.co/wyJwBqJ/loading.gif"  />
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hasindusithmin&label=Profile%20views&color=0e75b6&style=flat" alt="hasindusithmin" />
