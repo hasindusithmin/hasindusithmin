@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hasindu Sithmin</h1>
-<p align="center"> I’ve always been a great problem solver, an independent introvert, and a technophile obsessed with the latest technologies. Today, I’m studying in ɪɴꜱᴛᴜᴛɪᴛᴇ ᴏꜰ ᴛᴇᴄʜɴᴏʟᴏɢʏ,ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴍᴏʀᴀᴛᴜᴡᴀ under the ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ. </p>
-<p align="center"> I started learning to code when I was a teenager, though it was always more of a hobby than a career focus. After passing the Advanced Level examination and continuing to pursue that hobby, I realized software engineering was the right field for me. </p>
-<p align="center"> Since then, I’ve worked on countless freelance projects, been involved with a handful of notable startups, and am getting into improving my ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴀɴᴅ ɴᴏᴅᴇ.ᴊꜱ knowledge on my own time. </p>
-<p align="center"> I’m familiar with a variety of programming languages, including ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ʜᴛᴍʟ, ᴄꜱꜱ, ᴘʏᴛʜᴏɴ, ᴀɴᴅ ɴᴏᴅᴇ.ᴊꜱ, and I'm also familiar with a variety of frameworks, including ꜰᴀꜱᴛᴀᴘɪ, ᴇxᴘʀᴇꜱꜱ.ᴊꜱ,ꜱᴘʀɪɴɢ ʙᴏᴏᴛ,ʀᴇᴀᴄᴛ.ᴊꜱ, ᴀɴᴅ ɴᴇxᴛ.ᴊꜱ but I’m always adding new skills to my repertoire. Further, I'm a passionate and self-motivated individual looking for more effective and efficient solutions. </p>
+<h1 align="center">Hasindu Sithmin</h1>
+<p align="center"> Hi,👋, I'm Hasindu Sithmin, a driven and self-motivated Information Technology student at the University of Moratuwa's Institute of Technology. From a young age, I've been fascinated by technology and have always been drawn to problem-solving. I started learning to code as a teenager, and after achieving success in my Advanced Level exams, I knew that software engineering was the right career path for me. </p>
+<p align="center"> Since then, I've gained experience through a variety of projects and involvement with notable startups, continuously improving my skills in React.js, Node.js, and Python. In addition to these programming languages, I'm familiar with frameworks such as FastAPI, Express.js, Spring Boot, React.js, and Next.js. </p>
+<p align="center"> I'm always looking for new challenges and opportunities to grow, and I'm excited to connect and collaborate with like-minded individuals. You can check out my work on GitHub at https://github.com/hasindusithmin. Thank you for visiting my profile! </p>
+
 <p align="center">
 <img src="https://i.ibb.co/wyJwBqJ/loading.gif"  />
 </p>
